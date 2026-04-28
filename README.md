@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trentdoney/trentdoney/main/assets/github-readme-banner-wb.jpg" alt="Trent Doney - AI systems engineer" width="720">
+  <img src="https://raw.githubusercontent.com/trentdoney/trentdoney/main/assets/github-readme-banner-wb.jpg" alt="Trent Doney - AI systems engineer"  width="100%">
 </p>
 
 # Trent Doney
